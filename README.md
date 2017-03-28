@@ -1,2 +1,2 @@
 # SGpipeline
-NGS analysis on spark
+NGS analysis pipeline on spark
